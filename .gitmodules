@@ -1,0 +1,6 @@
+[submodule "lib/PVision"]
+	path = lib/PVision
+	url = git@github.com:omwah/PVision.git
+[submodule "RedBot"]
+	path = RedBot
+	url = git@github.com:sparkfun/RedBot.git
